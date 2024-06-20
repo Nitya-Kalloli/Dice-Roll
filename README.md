@@ -38,7 +38,9 @@ The JavaScript file contains functions to handle name editing and dice rolling l
 ### File Structure
 
 ├── index.html
+
 ├── styles.css
+
 └── script.js
 
 ## Installation
